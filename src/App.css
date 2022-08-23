@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* body{
+  /* background: maroon; */
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+
+*/
+.Nav{
+  overflow: hidden;
+}
+
+.me{
+  display: flex;
+  justify-content: space-between;
+  background: blue;
+}
+#logo {
+  height: 4rem;
+  width: 100%;
+  justify-items: center;
+  justify-content: center;
+  background-color: black;
+}
